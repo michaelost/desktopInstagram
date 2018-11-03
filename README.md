@@ -1,15 +1,3 @@
-
-## Minimal Electron, React and Webpack boilerplate
-
-Minimal Electron, React, PostCSS and Webpack boilerplate to help you get started with building your next app.
-
-### Table of contents
-
-* [Install](#install)
-* [Usage](#usage)
-* [Code of Conduct](#code-of-conduct)
-* [License](#license)
-
 ### Install
 
 #### Clone this repo
